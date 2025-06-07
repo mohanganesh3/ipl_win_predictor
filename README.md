@@ -267,9 +267,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - 💼 Experience in end-to-end ML pipeline development
 - 🚀 Focused on building production-ready AI applications
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](your-linkedin-url)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black.svg)](your-github-url)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green.svg)](your-portfolio-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](https://www.linkedin.com/in/mohan-ganesh-gottipati-22279b310/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black.svg)](https://github.com/mohanganesh3)
+
 
 ---
 
