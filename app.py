@@ -11,7 +11,7 @@ teams = [
     'Kings XI Punjab',
     'Chennai Super Kings',
     'Rajasthan Royals',
-    'Delhi Capitals'
+    'Delhi Daredevils'
 ]
 
 cities = [
