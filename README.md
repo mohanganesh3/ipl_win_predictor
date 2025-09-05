@@ -889,64 +889,9 @@ def predict_match_outcome(
 
 ---
 
-## 🏆 Success Stories & Community Impact
 
-### 📈 Usage Statistics
 
-```mermaid
-xychart-beta
-    title "📊 App Usage Growth Over Time"
-    x-axis [Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct]
-    y-axis "Monthly Users" 0 --> 5000
-    line [150, 320, 680, 1200, 1850, 2400, 3100, 3800, 4200, 4650]
-```
 
-### 💬 User Testimonials
-
-```markdown
-🌟 "This app predicted RCB's victory when they needed 43 runs in 3 overs. 
-   The probability showed 34% and they actually won! Mind-blown!" 
-   - @CricketFanatic2024
-
-🌟 "Using this for our office cricket predictions league. 
-   My win rate went from 45% to 78%. Absolutely incredible accuracy!"
-   - Fantasy Cricket Expert, Mumbai
-
-🌟 "As a cricket analyst, this saves me hours of manual calculation. 
-   The insights are spot-on and the visualizations are beautiful."
-   - Sports Journalist, ESPN Cricinfo
-
-🌟 "The confidence scores are amazing. When it shows 90%+ confidence, 
-   it's right almost every time. Revolutionary for cricket analytics!"
-   - Data Scientist, Bangalore
-```
-
-### 📊 Impact Metrics
-
-```python
-community_impact = {
-    "total_predictions_made": 47583,
-    "active_monthly_users": 4650,
-    "average_prediction_accuracy": "84.3%",
-    "countries_using_app": 23,
-    "github_stars": 156,
-    "community_contributions": 28,
-    "average_session_time": "6.2 minutes",
-    "user_satisfaction_score": "4.7/5.0"
-}
-
-# Geographic distribution
-user_demographics = {
-    "India": 78,
-    "Australia": 8,
-    "England": 5,
-    "South Africa": 3,
-    "New Zealand": 2,
-    "Others": 4
-}
-```
-
----
 
 ## 🔬 Technical Deep Dive: For the Data Science Enthusiasts
 
@@ -1397,76 +1342,7 @@ predictor.predictMatch(matchSituation)
 
 ---
 
-## 📚 Educational Resources
 
-### 📖 Learn More About Cricket Analytics
-
-```python
-learning_resources = {
-    "📚 Books": [
-        "Cricket Analytics: Beyond the Numbers",
-        "Machine Learning in Sports: A Practical Guide",
-        "Data Science for Cricket: From Stats to Insights"
-    ],
-    
-    "🎥 Video Tutorials": [
-        "Building Your First Sports Prediction Model",
-        "Feature Engineering for Cricket Data",
-        "Deploying ML Models with Streamlit"
-    ],
-    
-    "📰 Research Papers": [
-        "Predicting Cricket Match Outcomes using ML",
-        "Feature Importance in T20 Cricket Prediction", 
-        "Ensemble Methods for Sports Analytics"
-    ],
-    
-    "💻 Code Examples": [
-        "github.com/cricket-analytics/prediction-models",
-        "github.com/sports-ml/feature-engineering",
-        "github.com/streamlit/sports-apps-examples"
-    ]
-}
-```
-
-### 🎓 Tutorials & Workshops
-
-```python
-# Workshop: Build Your Own Cricket Predictor
-def cricket_prediction_workshop():
-    """
-    90-minute hands-on workshop covering:
-    1. Data collection and preprocessing
-    2. Feature engineering for cricket data
-    3. Model training and evaluation  
-    4. Building a Streamlit app
-    5. Deployment to cloud platforms
-    """
-    
-    # Step 1: Load and explore cricket data
-    matches_df = load_cricket_data()
-    print("Dataset shape:", matches_df.shape)
-    print("Sample data:", matches_df.head())
-    
-    # Step 2: Engineer features
-    features = engineer_cricket_features(matches_df)
-    print("Features created:", len(features.columns))
-    
-    # Step 3: Train model
-    model = train_cricket_model(features)
-    print("Model accuracy:", model.score(X_test, y_test))
-    
-    # Step 4: Build Streamlit app
-    build_prediction_app(model)
-    
-    # Step 5: Deploy to cloud
-    deploy_to_streamlit_cloud()
-
-# Available as interactive Jupyter notebook
-# Download: github.com/mohanganesh3/ipl_win_predictor/workshops/
-```
-
----
 
 ## 🌟 Final Words: The Future of Cricket is Data-Driven
 
