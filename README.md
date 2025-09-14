@@ -1,6 +1,8 @@
 # 🏏 IPL Win Predictor: Where Cricket Analytics Meets AI Magic ⚡
 
 <div align="center">
+[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-Try%20Now-brightgreen?style=for-the-badge&logo=rocket)](https://mohanganesh3-ipl-win-predictor-app-mpb9ve.streamlit.app/)
+
 
 ![IPL Cricket Banner](https://img.shields.io/badge/🏏_IPL-Win%20Predictor-FF6B35?style=for-the-badge&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)
