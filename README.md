@@ -2,14 +2,6 @@
 
 <div align="center">
 
-[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-Try%20Now-brightgreen?style=for-the-badge)]([https://atstracking-4rbdd77ejbdkto9buv6fkw.streamlit.app/](https://mohanganesh3-ipl-win-predictor-app-mpb9ve.streamlit.app/))
-
-
-![IPL Cricket Banner](https://img.shields.io/badge/🏏_IPL-Win%20Predictor-FF6B35?style=for-the-badge&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![ML Model](https://img.shields.io/badge/ML-Logistic%20Regression-00D4AA?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Accuracy](https://img.shields.io/badge/Accuracy-84.3%25-success?style=for-the-badge)
 
 ### 🚀 **[Experience Live Predictions →](https://mohanganesh3-ipl-win-predictor-app-mpb9ve.streamlit.app/)** | 📊 **[Explore Code →](https://github.com/mohanganesh3/ipl_win_predictor)**
 
