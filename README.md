@@ -3,7 +3,7 @@
 <div align="center">
 
 
-### 🚀 **[Experience Live Predictions →](https://mohanganesh3-ipl-win-predictor-app-mpb9ve.streamlit.app/)** | 📊 **[Explore Code →](https://github.com/mohanganesh3/ipl_win_predictor)**
+### 🚀 **[Experience Live Demo](https://mohanganesh3-ipl-win-predictor-app-mpb9ve.streamlit.app/)** 
 
 *"Cricket is a game of glorious uncertainties, but what if we could quantify that uncertainty?"*
 
